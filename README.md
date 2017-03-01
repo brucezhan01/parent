@@ -12,6 +12,7 @@ How to create a submodule
 
 
 How to clone a project with submodule
+
 1. git clone https://github.com/brucezhan01/parent.git
 2. cd parent
 3. git submodule update --init --recursive
@@ -19,6 +20,7 @@ or
 1. git clone --recursive https://github.com/brucezhan01/parent.git
 
 How to delete a submodule
+
 1. cd parent
 2. git delete child
 3. git commit -am "..."
