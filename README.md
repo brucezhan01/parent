@@ -1,4 +1,4 @@
-# parent
+# parent (experiment project)
 
 How to create a submodule
 
